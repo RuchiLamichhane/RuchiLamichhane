@@ -7,7 +7,7 @@
   
 - 🖥️ I'm a DevOps and Graphic Design enthusiast
 
-- 🌱 I’m currently learning **Linux, Python**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuchiLamichhane?tab=repositories](https://github.com/RuchiLamichhane?tab=repositories)
 
