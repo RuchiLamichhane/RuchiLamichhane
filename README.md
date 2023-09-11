@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RuchiLamichhane?tab=repositories](https://github.com/RuchiLamichhane?tab=repositories)
 
-- 📝 I  write articles on [https://medium.com/@ruchilamichhane77](https://medium.com/@ruchilamichhane77)
+- 📝 I  write articles on [https://hashnode.com/@Ruchi77)
 
 - 💬 Ask me about **Python, Devops, Graphic Design, Sprituality**
 
