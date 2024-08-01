@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Learner from Nepal</h2>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-- 📖 I'm a undergraduate student, persuing graduation in computer science and information technology from Tribhuwan University ,Nepal
+- 📖 I'm an undergraduate student, pursuing graduation in computer science and information technology from Tribhuwan University, Nepal
   
 - 🖥️ I'm a DevOps and Graphic Design enthusiast
 
@@ -13,7 +13,7 @@
 
 - 📝 I  write articles on [https://hashnode.com/@Ruchi77)
 
-- 💬 Ask me about **Python, Devops, Graphic Design, Sprituality**
+- 💬 Ask me about **Python, DevOps, Graphic Design, Spirituality**
 
 - 📫 How to reach me **ruchilamichhane77@gmail.com**
 
