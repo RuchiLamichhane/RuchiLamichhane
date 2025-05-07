@@ -13,8 +13,6 @@
 
 - 📝 I  write articles on [https://hashnode.com/@Ruchi77)
 
-- 💬 Ask me about **Python, DevOps, Graphic Design, Spirituality**
-
 - 📫 How to reach me **ruchilamichhane77@gmail.com**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ruchilamichhane&count_private=true&show_icons=true&theme=vision-friendly-dark
